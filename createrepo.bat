@@ -76,6 +76,10 @@ git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git co
 
 git submodule add -b main https://github.com/ewallah/moodle-availability_relativedate.git availability/condition/relativedate
 
+git submodule add -b main https://github.com/moodleou/moodle-qtype_combined.git question/type/combined
+
+
+
 pause
 
 
