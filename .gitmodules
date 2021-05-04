@@ -134,3 +134,7 @@
 	path = moodle/availability/condition/relativedate
 	url = https://github.com/ewallah/moodle-availability_relativedate.git
 	branch = main
+[submodule "moodle/question/type/oumultiresponse"]
+	path = moodle/question/type/oumultiresponse
+	url = https://github.com/moodleou/moodle-qtype_oumultiresponse.git
+	branch = main
