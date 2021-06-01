@@ -60,9 +60,9 @@ git submodule add -b MOODLE_30_STABLE https://bitbucket.org/ciceidev/moodle_bloc
 
 git submodule add -b master https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
 
-git submodule add -b v3.4.2 https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
+git submodule add -b V3.4.3+ https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
 
-git submodule add -b MOODLE_310_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
+git submodule add -b MOODLE_311_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
 
 git submodule add -b master https://github.com/moodle-ead/atto_justify.git lib/editor/atto/plugins/justify
 
@@ -78,6 +78,13 @@ git submodule add -b main https://github.com/ewallah/moodle-availability_relativ
 
 git submodule add -b main https://github.com/moodleou/moodle-qtype_combined.git question/type/combined
 
+git submodule add -b master https://github.com/projectestac/moodle-mod_geogebra.git mod/geogebra
+
+git submodule add -b master https://github.com/gbateson/moodle-qtype_essayautograde.git question/type/essayautograde
+
+git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimport.git mod/book/tool/wordimport
+
+git submodule add -b MOODLE_310_STABLE https://github.com/DigiDago/moodle-format_softcourse.git course/format/softcourse
 
 
 pause
