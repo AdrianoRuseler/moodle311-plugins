@@ -98,10 +98,6 @@
 	path = moodle/mod/subcourse
 	url = https://github.com/mudrd8mz/moodle-mod_subcourse.git
 	branch = master
-[submodule "moodle/mod/vpl"]
-	path = moodle/mod/vpl
-	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
-	branch = v3.4.2
 [submodule "moodle/mod/publication"]
 	path = moodle/mod/publication
 	url = https://github.com/academic-moodle-cooperation/moodle-mod_publication.git
