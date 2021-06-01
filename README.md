@@ -193,7 +193,7 @@ git submodule add -b master https://github.com/mudrd8mz/moodle-mod_subcourse.git
 
 - https://github.com/academic-moodle-cooperation/moodle-mod_publication
 ```bash
-git submodule add -b MOODLE_310_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
+git submodule add -b MOODLE_311_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
 ```
 
 - https://moodle.org/plugins/atto_justify
