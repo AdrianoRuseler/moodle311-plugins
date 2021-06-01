@@ -234,7 +234,27 @@ git submodule add -b main https://github.com/ewallah/moodle-availability_relativ
 git submodule add -b v3.3.8 https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
 ```
 
-## Problems with version 3.10
+- https://github.com/DigiDago/moodle-format_softcourse
+```bash
+git submodule add -b MOODLE_310_STABLE https://github.com/DigiDago/moodle-format_softcourse.git course/format/softcourse
+```
+
+- https://github.com/ecampbell/moodle-booktool_wordimport
+```bash
+git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimport.git mod/book/tool/wordimport
+```
+
+- https://github.com/gbateson/moodle-qtype_essayautograde
+```bash
+git submodule add -b master https://github.com/gbateson/moodle-qtype_essayautograde.git question/type/essayautograde
+```
+- https://github.com/projectestac/moodle-mod_geogebra
+```bash
+git submodule add -b master https://github.com/projectestac/moodle-mod_geogebra.git mod/geogebra
+```
+
+
+## Problems with version 3.11
 
 
 ## Remove
