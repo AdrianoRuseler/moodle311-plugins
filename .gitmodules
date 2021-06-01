@@ -154,3 +154,7 @@
 	path = moodle/mod/geogebra
 	url = https://github.com/projectestac/moodle-mod_geogebra.git
 	branch = master
+[submodule "moodle/mod/vpl"]
+	path = moodle/mod/vpl
+	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
+	branch = V3.4.3+
