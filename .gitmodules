@@ -154,3 +154,7 @@
 	path = moodle/mod/publication
 	url = https://github.com/academic-moodle-cooperation/moodle-mod_publication.git
 	branch = MOODLE_311_STABLE
+[submodule "moodle/mod/hvp"]
+	path = moodle/mod/hvp
+	url = https://github.com/h5p/h5p-moodle-plugin.git
+	branch = stable
