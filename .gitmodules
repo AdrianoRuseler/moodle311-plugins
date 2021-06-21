@@ -126,10 +126,6 @@
 	path = moodle/mod/attendance
 	url = https://github.com/danmarsden/moodle-mod_attendance.git
 	branch = MOODLE_311_STABLE
-[submodule "moodle/course/format/softcourse"]
-	path = moodle/course/format/softcourse
-	url = https://github.com/DigiDago/moodle-format_softcourse.git
-	branch = MOODLE_310_STABLE
 [submodule "moodle/mod/book/tool/wordimport"]
 	path = moodle/mod/book/tool/wordimport
 	url = https://github.com/ecampbell/moodle-booktool_wordimport.git
