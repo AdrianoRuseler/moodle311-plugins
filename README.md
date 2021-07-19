@@ -252,6 +252,10 @@ git submodule add -b master https://github.com/gbateson/moodle-qtype_essayautogr
 ```bash
 git submodule add -b master https://github.com/projectestac/moodle-mod_geogebra.git mod/geogebra
 ```
+- https://github.com/donhinkelman/moodle-block_sharing_cart
+```bash
+git submodule add -b master https://github.com/donhinkelman/moodle-block_sharing_cart.git blocks/sharing_cart
+```
 
 
 ## Problems with version 3.11
