@@ -154,7 +154,3 @@
 	path = moodle/mod/customcert
 	url = https://github.com/markn86/moodle-mod_customcert.git
 	branch = MOODLE_311_STABLE
-[submodule "moodle/course/format/softcourse"]
-	path = moodle/course/format/softcourse
-	url = https://github.com/DigiDago/moodle-format_softcourse.git
-	branch = MOODLE_311_STABLE
