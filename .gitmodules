@@ -154,7 +154,3 @@
 	path = moodle/mod/customcert
 	url = https://github.com/markn86/moodle-mod_customcert.git
 	branch = MOODLE_311_STABLE
-[submodule "mod/subcourse"]
-	path = mod/subcourse
-	url = https://github.com/mudrd8mz/moodle-mod_subcourse.git
-	branch = main
