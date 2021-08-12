@@ -154,3 +154,7 @@
 	path = moodle/course/format/softcourse
 	url = https://github.com/DigiDago/moodle-format_softcourse.git
 	branch = MOODLE_311_STABLE
+[submodule "moodle/mod/subcourse"]
+	path = moodle/mod/subcourse
+	url = https://github.com/mudrd8mz/moodle-mod_subcourse.git
+	branch = main
