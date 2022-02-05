@@ -257,6 +257,14 @@ git submodule add -b master https://github.com/projectestac/moodle-mod_geogebra.
 git submodule add -b master https://github.com/donhinkelman/moodle-block_sharing_cart.git blocks/sharing_cart
 ```
 
+- https://github.com/turnitin/moodle-mod_turnitintooltwo
+```bash
+git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintooltwo.git mod/turnitintooltwo
+```
+
+
+
+
 
 ## Problems with version 3.11
 
