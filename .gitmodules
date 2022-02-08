@@ -166,3 +166,7 @@
 	path = moodle/mod/quizgame
 	url = https://github.com/xow/moodle-mod_quizgame.git
 	branch = master
+[submodule "moodle/blocks/xp"]
+	path = moodle/blocks/xp
+	url = https://github.com/FMCorz/moodle-block_xp.git
+	branch = xp-3.11
