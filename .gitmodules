@@ -166,3 +166,7 @@
 	path = moodle/mod/bigbluebuttonbn
 	url = https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn.git
 	branch = v2.4-stable
+[submodule "moodle/mod/quizgame"]
+	path = moodle/mod/quizgame
+	url = https://github.com/xow/moodle-mod_quizgame.git
+	branch = master

@@ -261,9 +261,10 @@ git submodule add -b master https://github.com/donhinkelman/moodle-block_sharing
 ```bash
 git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintooltwo.git mod/turnitintooltwo
 ```
-
-
-
+- https://github.com/xow/moodle-mod_quizgame
+```bash
+git submodule add -b master https://github.com/xow/moodle-mod_quizgame.git mod/quizgame
+```
 
 
 ## Problems with version 3.11
