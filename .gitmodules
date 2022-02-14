@@ -166,3 +166,7 @@
 	path = moodle/blocks/xp
 	url = https://github.com/FMCorz/moodle-block_xp.git
 	branch = xp-3.11
+[submodule "moodle/mod/turnitintooltwo"]
+	path = moodle/mod/turnitintooltwo
+	url = https://github.com/turnitin/moodle-mod_turnitintooltwo.git
+	branch = master
