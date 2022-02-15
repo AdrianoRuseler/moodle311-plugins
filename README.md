@@ -265,6 +265,24 @@ git submodule add -b master https://github.com/donhinkelman/moodle-block_sharing
 git submodule add -b master https://github.com/xow/moodle-mod_quizgame.git mod/quizgame
 ```
 
+- https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion
+```bash
+git submodule add -b master https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git question/type/vplquestion
+```
+
+- https://github.com/turnitin/moodle-plagiarism_turnitin.git
+```bash
+git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnitin.git plagiarism/turnitin
+```
+
+- https://github.com/turnitin/moodle-mod_turnitintooltwo.git
+```bash
+git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintooltwo.git mod/turnitintooltwo
+```
+
+
+
+
 ## Remove
 ```bash
 git submodule deinit <path_to_submodule>
