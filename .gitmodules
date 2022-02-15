@@ -174,3 +174,7 @@
 	path = moodle/plagiarism/turnitin
 	url = https://github.com/turnitin/moodle-plagiarism_turnitin.git
 	branch = master
+[submodule "moodle/question/type/vplquestion"]
+	path = moodle/question/type/vplquestion
+	url = https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git
+	branch = master
