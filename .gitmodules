@@ -170,3 +170,7 @@
 	path = moodle/mod/turnitintooltwo
 	url = https://github.com/turnitin/moodle-mod_turnitintooltwo.git
 	branch = master
+[submodule "moodle/plagiarism/turnitin"]
+	path = moodle/plagiarism/turnitin
+	url = https://github.com/turnitin/moodle-plagiarism_turnitin.git
+	branch = master
