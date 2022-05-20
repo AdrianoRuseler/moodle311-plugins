@@ -170,3 +170,7 @@
 	path = moodle/question/type/vplquestion
 	url = https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git
 	branch = master
+[submodule "moodle/theme/adaptable"]
+	path = moodle/theme/adaptable
+	url = https://gitlab.com/jezhops/moodle-theme_adaptable.git
+	branch = MOODLE_311
