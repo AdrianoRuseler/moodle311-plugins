@@ -170,3 +170,7 @@
 	path = moodle/theme/adaptable
 	url = https://gitlab.com/jezhops/moodle-theme_adaptable.git
 	branch = MOODLE_311
+[submodule "moodle/mod/studentquiz"]
+	path = moodle/mod/studentquiz
+	url = https://github.com/frankkoch/moodle-mod_studentquiz.git
+	branch = main
