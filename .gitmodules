@@ -34,10 +34,6 @@
 	path = moodle/question/type/oumultiresponse
 	url = https://github.com/moodleou/moodle-qtype_oumultiresponse.git
 	branch = main
-[submodule "moodle/mod/scheduler"]
-	path = moodle/mod/scheduler
-	url = https://github.com/bostelm/moodle-mod_scheduler.git
-	branch = master
 [submodule "moodle/blocks/completion_progress"]
 	path = moodle/blocks/completion_progress
 	url = https://github.com/deraadt/moodle-block_completion_progress.git
