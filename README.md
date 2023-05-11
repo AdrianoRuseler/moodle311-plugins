@@ -76,12 +76,6 @@ git submodule update --init
 git submodule add -b master https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn.git mod/bigbluebuttonbn
 ```
 
-- https://github.com/trampgeek/moodle-qtype_coderunner
-```bash
-git submodule add -b master https://github.com/trampgeek/moodle-qtype_coderunner.git question/type/coderunner
-git submodule add -b master https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git question/behaviour/adaptive_adapted_for_coderunner
-```
-
 - https://github.com/dthies/moodle-atto_cloze
 ```bash
 git submodule add -b master https://github.com/dthies/moodle-atto_cloze.git lib/editor/atto/plugins/cloze
@@ -92,20 +86,13 @@ git submodule add -b master https://github.com/dthies/moodle-atto_cloze.git lib/
 git submodule add -b master https://github.com/FMCorz/moodle-block_xp.git blocks/xp
 ```
 
-- https://github.com/bynare/moodle-enrol_auto
-```bash
-git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/auto
-```
 
 - https://github.com/moodleou/moodle-qtype_oumultiresponse
 ```bash
 git submodule add -b main https://github.com/moodleou/moodle-qtype_oumultiresponse.git question/type/oumultiresponse
 ```
 
-- https://github.com/bostelm/moodle-mod_scheduler
-```bash
- git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
-```
+
 - https://github.com/deraadt/moodle-block_completion_progress
 ```bash
 git submodule add -b master https://github.com/deraadt/moodle-block_completion_progress.git blocks/completion_progress
@@ -118,11 +105,6 @@ git submodule add -b master https://gitlab.com/jezhops/moodle-theme_adaptable.gi
 - https://github.com/ndunand/moodle-mod_choicegroup
 ```bash
 git submodule add -b master https://github.com/ndunand/moodle-mod_choicegroup.git mod/choicegroup
-```
-
-- https://github.com/frankkoch/moodle-mod_studentquiz
-```bash
-git submodule add -b main https://github.com/frankkoch/moodle-mod_studentquiz.git mod/studentquiz
 ```
 
 - https://github.com/dthies/moodle-atto_fullscreen
@@ -205,11 +187,6 @@ git submodule add -b master https://github.com/moodle-ead/atto_justify.git lib/e
 git submodule add -b master https://github.com/gbateson/moodle-qtype_ordering.git question/type/ordering
 ```
 
-- https://github.com/moodleuulm/moodle-local_sandbox
-```bash
-git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
-```
-
 - https://github.com/jleyva/moodle-block_configurablereports
 ```bash
 git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
@@ -232,7 +209,7 @@ git submodule add -b main https://github.com/ewallah/moodle-availability_relativ
 
 - https://github.com/jcrodriguez-dis/moodle-mod_vpl
 ```bash
-git submodule add -b V3.4.3+ https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
+git submodule add -b master https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
 ```
 
 - https://github.com/DigiDago/moodle-format_softcourse
@@ -260,14 +237,39 @@ git submodule add -b master https://github.com/projectestac/moodle-mod_geogebra.
 git submodule add -b master https://github.com/donhinkelman/moodle-block_sharing_cart.git blocks/sharing_cart
 ```
 
-- https://github.com/xow/moodle-mod_quizgame
-```bash
-git submodule add -b master https://github.com/xow/moodle-mod_quizgame.git mod/quizgame
-```
-
 - https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion
 ```bash
 git submodule add -b master https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git question/type/vplquestion
+```
+
+### ENROL
+
+- https://github.com/bobopinna/moodle-enrol_autoenrol
+```bash
+git submodule add -b master https://github.com/bobopinna/moodle-enrol_autoenrol.git enrol/autoenrol
+```
+
+## REMOVED
+
+- https://github.com/moodleuulm/moodle-local_sandbox
+```bash
+git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
+```
+
+- https://github.com/trampgeek/moodle-qtype_coderunner
+```bash
+git submodule add -b master https://github.com/trampgeek/moodle-qtype_coderunner.git question/type/coderunner
+git submodule add -b master https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git question/behaviour/adaptive_adapted_for_coderunner
+```
+
+- https://github.com/frankkoch/moodle-mod_studentquiz
+```bash
+git submodule add -b main https://github.com/frankkoch/moodle-mod_studentquiz.git mod/studentquiz
+```
+
+- https://github.com/xow/moodle-mod_quizgame
+```bash
+git submodule add -b master https://github.com/xow/moodle-mod_quizgame.git mod/quizgame
 ```
 
 - https://github.com/turnitin/moodle-plagiarism_turnitin.git
@@ -278,6 +280,10 @@ git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnit
 - https://github.com/turnitin/moodle-mod_turnitintooltwo.git
 ```bash
 git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintooltwo.git mod/turnitintooltwo
+```
+- https://github.com/bostelm/moodle-mod_scheduler
+```bash
+ git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
 ```
 
 ## Remove
