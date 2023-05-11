@@ -73,7 +73,7 @@ git submodule update --init
 
 - https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn
 ```bash
-git submodule add -b v2.4-stable https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn.git mod/bigbluebuttonbn
+git submodule add -b master https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn.git mod/bigbluebuttonbn
 ```
 
 - https://github.com/trampgeek/moodle-qtype_coderunner
