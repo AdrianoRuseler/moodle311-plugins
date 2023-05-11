@@ -90,10 +90,6 @@
 	path = moodle/question/type/ordering
 	url = https://github.com/gbateson/moodle-qtype_ordering.git
 	branch = master
-[submodule "moodle/local/sandbox"]
-	path = moodle/local/sandbox
-	url = https://github.com/moodleuulm/moodle-local_sandbox.git
-	branch = master
 [submodule "moodle/blocks/configurable_reports"]
 	path = moodle/blocks/configurable_reports
 	url = https://github.com/jleyva/moodle-block_configurablereports.git
