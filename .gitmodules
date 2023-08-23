@@ -122,10 +122,6 @@
 	path = moodle/mod/geogebra
 	url = https://github.com/projectestac/moodle-mod_geogebra.git
 	branch = master
-[submodule "moodle/blocks/sharing_cart"]
-	path = moodle/blocks/sharing_cart
-	url = https://github.com/donhinkelman/moodle-block_sharing_cart.git
-	branch = master
 [submodule "moodle/question/type/vplquestion"]
 	path = moodle/question/type/vplquestion
 	url = https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git
