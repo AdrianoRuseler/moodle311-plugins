@@ -234,7 +234,7 @@ git submodule add -b master https://github.com/projectestac/moodle-mod_geogebra.
 
 - https://github.com/donhinkelman/moodle-block_sharing_cart
 ```bash
-git submodule add -b master https://github.com/donhinkelman/moodle-block_sharing_cart.git blocks/sharing_cart
+git submodule add -b MOODLE_311_STABLE https://github.com/donhinkelman/moodle-block_sharing_cart.git blocks/sharing_cart
 ```
 
 - https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion
