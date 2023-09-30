@@ -239,7 +239,7 @@ git submodule add -b MOODLE_311_STABLE https://github.com/donhinkelman/moodle-bl
 
 - https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion
 ```bash
-git submodule add -b master https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git question/type/vplquestion
+git submodule add -b MOODLE_3X_STABLE https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git question/type/vplquestion
 ```
 
 ### ENROL
