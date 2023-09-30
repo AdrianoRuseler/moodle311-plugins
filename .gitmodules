@@ -126,3 +126,7 @@
 	path = moodle/blocks/sharing_cart
 	url = https://github.com/donhinkelman/moodle-block_sharing_cart.git
 	branch = MOODLE_311_STABLE
+[submodule "moodle/question/type/vplquestion"]
+	path = moodle/question/type/vplquestion
+	url = https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git
+	branch = MOODLE_3X_STABLE
